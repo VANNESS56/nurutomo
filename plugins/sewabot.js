@@ -1,8 +1,9 @@
 const sewabot = () => { 
 	return `
 *OPEN JASA SEWA BOT*
-
-Sewa Permanen : 5k
+Perminggu : 2K
+Perbulan  : 4K
+Permanen  : 20K
 
 *Payment :*
 _Pulsa Dan Dana_
